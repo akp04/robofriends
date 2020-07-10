@@ -1,3 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+My first React App...Check it out!!!
 
-My first React App...checck it out!!!
+Details : (https://github.com/facebook/create-react-app).
